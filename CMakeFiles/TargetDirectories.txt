@@ -1,0 +1,3 @@
+/home/ariel/ClionProjects/mission3/CMakeFiles/edit_cache.dir
+/home/ariel/ClionProjects/mission3/CMakeFiles/rebuild_cache.dir
+/home/ariel/ClionProjects/mission3/CMakeFiles/MISSION3.dir

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MISSION3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ariel/ClionProjects/mission3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ariel/ClionProjects/mission3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ariel/ClionProjects/mission3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MISSION3">
+				<Option output="/home/ariel/ClionProjects/mission3/MISSION3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ariel/ClionProjects/mission3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 MISSION3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MISSION3/fast">
+				<Option output="/home/ariel/ClionProjects/mission3/MISSION3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ariel/ClionProjects/mission3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 MISSION3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/ariel/ClionProjects/mission3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Bfs.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Bfs.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/CabBase.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/CabBase.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Driver.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Driver.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/GameFlow.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/GameFlow.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Grid.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Grid.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/InfoTaxi.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/InfoTaxi.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/LuxuryCab.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/LuxuryCab.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Matrix2d.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Matrix2d.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Node.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Node.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Passenger.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Passenger.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/PassengerTest.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/PharserInfo.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/PharserInfo.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Point.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Point.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/StandartCab.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/StandartCab.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestBfs.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestCabBase.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestDriver.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestMatrix2d.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestNode.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestParser.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestPoint.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestTexiCenter.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TestTrip.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TexiCenter.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/TexiCenter.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Trip.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/Trip.h">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/main.cpp">
+			<Option target="MISSION3"/>
+		</Unit>
+		<Unit filename="/home/ariel/ClionProjects/mission3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
